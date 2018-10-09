@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1512210758 source:d:\data\corrections_c++\tp4\tp4_avec_fic\date.cpp
+	"Date.h"
+	<time.h>
+
+1512210758 d:\data\corrections_c++\tp4\tp4_avec_fic\date.h
+	<iostream>
+
+1512234719 source:d:\data\corrections_c++\tp4\tp4_avec_fic\personne.cpp
+	"Personne.h"
+
+1512234719 d:\data\corrections_c++\tp4\tp4_avec_fic\personne.h
+	<iostream>
+	"Date.h"
+
+1512209933 source:d:\data\corrections_c++\tp4\tp4_avec_fic\testannuaire.cpp
+	"Annuaire.h"
+
+1512311656 d:\data\corrections_c++\tp4\tp4_avec_fic\annuaire.h
+	<iostream>
+	<vector>
+	<limits>
+	<sstream>
+	<algorithm>
+	<fstream>
+	"Personne.h"
+
+1512312103 source:d:\data\corrections_c++\tp4\tp4_avec_fic\annuaire.cpp
+	"Annuaire.h"
+

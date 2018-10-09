@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1445518488 source:d:\data\corrections_c++\tp5\tp5_1\date.cpp
+	"Date.h"
+
+1512317309 d:\data\corrections_c++\tp5\tp5_1\date.h
+	<iostream>
+	<time.h>
+
+1418401146 source:d:\data\corrections_c++\tp5\tp5_1\enseignant.cpp
+	"Enseignant.h"
+
+1415288572 d:\data\corrections_c++\tp5\tp5_1\enseignant.h
+	<list>
+	"Personne.h"
+
+1448029590 d:\data\corrections_c++\tp5\tp5_1\personne.h
+	<iostream>
+	"Date.h"
+
+1448621090 source:d:\data\corrections_c++\tp5\tp5_1\etudiant.cpp
+	"Etudiant.h"
+
+1448621086 d:\data\corrections_c++\tp5\tp5_1\etudiant.h
+	<list>
+	<sstream>
+	"Personne.h"
+
+1448611948 source:d:\data\corrections_c++\tp5\tp5_1\personne.cpp
+	"Personne.h"
+
+1448611982 source:d:\data\corrections_c++\tp5\tp5_1\test_etudiant.cpp
+	"Etudiant.h"
+	<cstdlib>
+	<cstdio>
+
+1421247278 source:d:\data\corrections_c++\tp5\tp5_1\test_etudiant2bis.cpp
+	"Etudiant.h"
+	<cstdlib>
+	<cstdio>
+

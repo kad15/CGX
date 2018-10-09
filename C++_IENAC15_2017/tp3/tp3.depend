@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1512035221 source:d:\data\corrections_c++\tp3\date.cpp
+	"Date.h"
+	<time.h>
+
+1512033328 d:\data\corrections_c++\tp3\date.h
+	<iostream>
+
+1512120011 source:d:\data\corrections_c++\tp3\personne.cpp
+	"Personne.h"
+
+1512118514 d:\data\corrections_c++\tp3\personne.h
+	<iostream>
+	"Date.h"
+
+1447146918 source:d:\data\corrections_c++\tp3\string.cpp
+	"String.h"
+
+1447146472 d:\data\corrections_c++\tp3\string.h
+	<iostream>
+	<cstring>
+
+1510822020 source:d:\data\corrections_c++\tp3\teststring.cpp
+	"String.h"
+

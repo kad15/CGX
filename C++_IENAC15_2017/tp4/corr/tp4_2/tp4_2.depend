@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1445514888 source:/home/personnel/SINA/Planchfr/c++/ienac14/tp4/tp4_2/Date.cpp
+	"Date.h"
+
+1447147188 /home/personnel/SINA/Planchfr/c++/ienac14/tp4/tp4_2/Date.h
+	<iostream>
+
+1447747008 source:/home/personnel/SINA/Planchfr/c++/ienac14/tp4/tp4_2/TestAnnuaire.cpp
+	"Annuaire.h"
+
+1448360980 /home/personnel/SINA/Planchfr/c++/ienac14/tp4/tp4_2/Annuaire.h
+	<iostream>
+	<vector>
+	<limits>
+	<sstream>
+	"Personne.h"
+
+1447168139 /home/personnel/SINA/Planchfr/c++/ienac14/tp4/tp4_2/Personne.h
+	<iostream>
+	"Date.h"
+
+1448023731 source:/home/personnel/SINA/Planchfr/c++/ienac14/tp4/tp4_2/Personne.cpp
+	"Personne.h"
+
+1448275488 source:/home/personnel/SINA/Planchfr/c++/ienac14/tp4/tp4_2/Annuaire.cpp
+	"Annuaire.h"
+
