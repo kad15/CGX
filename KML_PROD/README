@@ -1,0 +1,14 @@
+class Kml : 
+classe pour produire les kml à partir des json
+pour afficher les hôpitaux, les bases, les patients et les trajets
+des helicoptères entre la base origine, le patient,
+l'hôpital et la base destination.
+
+le main() donne un exemple d'utilisation.
+les données d'entrées json sont lues dans le dossier data du projet.
+et les donnée de sorties écrites dans le dossier kml.
+
+nb : tant que le dossier "files" qui contient les icônes  se trouve
+ dans le meme dossier que le kml, l'opération de transfo en kmz n'est
+pas nécessaire. le kmz est surtout pratique pour le transfert du fichier via un réseau.
+ 

@@ -1,0 +1,3253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/hospital.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.43721083013212,40.895798010703082,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/hospital.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.37902844016395,40.501596349990741,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/hospital.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-102.54712214858603,39.569831145261332,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/hospital.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.07729775322476,40.721448005978694,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/hospital.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.85445803909305,37.927192887723074,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/hospital.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.45224822613049,37.274964638182411,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/hospital.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.79438018370158,40.430429914701001,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/hospital.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.28705420824096,39.530560179860593,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/hospital.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.68704120753661,37.76399724593572,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/hospital.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.96311391189839,40.455890025690145,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.73403789370043,39.075424843502894,4</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.39123980346659,39.62119086395073,3</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-102.50891758851191,38.764707089292216,2</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-102.25855449366315,38.054071696965991,3</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-102.2445454850069,37.075993217563251,5</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-102.83405417056477,39.414115679643174,4</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.14801694552787,40.403179613595448,5</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.99625005991955,40.661110667354016,4</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-108.431484456375,38.500096178380815,3</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-108.48672841092885,38.024921035871337,4</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-108.16594828067625,40.67934473030239,5</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-102.73180550510614,38.77438976512029,3</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.62617642741007,40.608170745711853,4</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.61098296409985,38.641911375169599,4</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.46263706193429,37.048188895009545,5</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.28367595760324,39.484189327100381,2</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.06558466892018,38.030471452060375,3</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.10843754937333,37.18576242038317,2</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.83029029463897,37.814570138610236,4</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name></name>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/heliport.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.4415141266964,39.647433116402212,3</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<name>0</name>
+<TimeStamp><when>0</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-108.10405911277238,38.243217297477287,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>0</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-108.431484456375,38.500096178380815,0 -108.10405911277238,38.243217297477287,0 -105.68704120753661,37.76399724593572,0 -106.83029029463897,37.814570138610236,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>1</name>
+<TimeStamp><when>1</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.41743105529687,40.61693251860185,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>1</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-108.16594828067625,40.67934473030239,0 -107.41743105529687,40.61693251860185,0 -107.37902844016395,40.501596349990741,0 -108.16594828067625,40.67934473030239,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>2</name>
+<TimeStamp><when>2</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.45491024500453,39.050208513648343,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>2</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.73403789370043,39.075424843502894,0 -104.45491024500453,39.050208513648343,0 -104.28705420824096,39.530560179860593,0 -104.73403789370043,39.075424843502894,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>3</name>
+<TimeStamp><when>3</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.18599538886268,39.015877527192181,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>3</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.73403789370043,39.075424843502894,0 -104.18599538886268,39.015877527192181,0 -104.28705420824096,39.530560179860593,0 -104.73403789370043,39.075424843502894,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>4</name>
+<TimeStamp><when>4</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.99102621059447,37.193643247798853,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>4</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.46263706193429,37.048188895009545,0 -104.99102621059447,37.193643247798853,0 -105.45224822613049,37.274964638182411,0 -104.46263706193429,37.048188895009545,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>5</name>
+<TimeStamp><when>5</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.23264400159597,40.243282690291892,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>5</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-103.99625005991955,40.661110667354016,0 -104.23264400159597,40.243282690291892,0 -104.28705420824096,39.530560179860593,0 -104.73403789370043,39.075424843502894,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>6</name>
+<TimeStamp><when>6</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.27644775029107,37.90769992624768,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>6</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.10843754937333,37.18576242038317,0 -104.27644775029107,37.90769992624768,0 -104.85445803909305,37.927192887723074,0 -104.61098296409985,38.641911375169599,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>7</name>
+<TimeStamp><when>7</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.23589485848132,39.04260283617424,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>7</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.73403789370043,39.075424843502894,0 -105.23589485848132,39.04260283617424,0 -104.28705420824096,39.530560179860593,0 -104.73403789370043,39.075424843502894,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>8</name>
+<TimeStamp><when>8</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.09581312914185,40.225797021401021,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>8</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.14801694552787,40.403179613595448,0 -106.09581312914185,40.225797021401021,0 -106.96311391189839,40.455890025690145,0 -108.16594828067625,40.67934473030239,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>9</name>
+<TimeStamp><when>9</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.76699031692324,40.365728944244665,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>9</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-107.4415141266964,39.647433116402212,0 -106.76699031692324,40.365728944244665,0 -106.96311391189839,40.455890025690145,0 -107.4415141266964,39.647433116402212,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>10</name>
+<TimeStamp><when>10</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.80850374689722,39.94985084373031,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>10</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.14801694552787,40.403179613595448,0 -104.80850374689722,39.94985084373031,0 -104.28705420824096,39.530560179860593,0 -104.61098296409985,38.641911375169599,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>11</name>
+<TimeStamp><when>11</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.30997535414527,39.23333054884958,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>11</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-107.4415141266964,39.647433116402212,0 -107.30997535414527,39.23333054884958,0 -106.96311391189839,40.455890025690145,0 -107.4415141266964,39.647433116402212,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>12</name>
+<TimeStamp><when>12</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.75279585586526,39.815912197723947,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>12</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.28367595760324,39.484189327100381,0 -104.75279585586526,39.815912197723947,0 -104.28705420824096,39.530560179860593,0 -105.28367595760324,39.484189327100381,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>13</name>
+<TimeStamp><when>13</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.39640894923193,38.98010332602081,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>13</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.28367595760324,39.484189327100381,0 -105.39640894923193,38.98010332602081,0 -104.28705420824096,39.530560179860593,0 -105.28367595760324,39.484189327100381,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>14</name>
+<TimeStamp><when>14</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.94634430853014,37.666422169965891,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>14</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.10843754937333,37.18576242038317,0 -103.94634430853014,37.666422169965891,0 -104.85445803909305,37.927192887723074,0 -104.10843754937333,37.18576242038317,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>15</name>
+<TimeStamp><when>15</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.25920623925478,39.523077656758517,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>15</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.73403789370043,39.075424843502894,0 -104.25920623925478,39.523077656758517,0 -104.28705420824096,39.530560179860593,0 -104.73403789370043,39.075424843502894,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>16</name>
+<TimeStamp><when>16</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.93946931648044,38.356549442446116,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>16</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-106.83029029463897,37.814570138610236,0 -105.93946931648044,38.356549442446116,0 -105.68704120753661,37.76399724593572,0 -106.83029029463897,37.814570138610236,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>17</name>
+<TimeStamp><when>17</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.73601282655076,37.943664458088421,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>17</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-107.06558466892018,38.030471452060375,0 -107.73601282655076,37.943664458088421,0 -105.68704120753661,37.76399724593572,0 -106.83029029463897,37.814570138610236,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>18</name>
+<TimeStamp><when>18</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-102.18634821855758,38.919664633422933,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>18</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.50891758851191,38.764707089292216,0 -102.18634821855758,38.919664633422933,0 -102.54712214858603,39.569831145261332,0 -102.83405417056477,39.414115679643174,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>19</name>
+<TimeStamp><when>19</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-108.73225843102311,39.529160983175579,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>19</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-108.431484456375,38.500096178380815,0 -108.73225843102311,39.529160983175579,0 -107.79438018370158,40.430429914701001,0 -108.16594828067625,40.67934473030239,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>20</name>
+<TimeStamp><when>20</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.64612193668546,39.352152512572779,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>20</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.39123980346659,39.62119086395073,0 -106.64612193668546,39.352152512572779,0 -106.96311391189839,40.455890025690145,0 -107.4415141266964,39.647433116402212,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>21</name>
+<TimeStamp><when>21</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-108.41855228246122,38.499646159587265,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>21</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-108.431484456375,38.500096178380815,0 -108.41855228246122,38.499646159587265,0 -107.79438018370158,40.430429914701001,0 -108.16594828067625,40.67934473030239,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>22</name>
+<TimeStamp><when>22</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.20938042328198,37.13214220112755,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>22</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.46263706193429,37.048188895009545,0 -105.20938042328198,37.13214220112755,0 -105.45224822613049,37.274964638182411,0 -104.46263706193429,37.048188895009545,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>23</name>
+<TimeStamp><when>23</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.35336524869938,37.35274237224494,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>23</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.46263706193429,37.048188895009545,0 -104.35336524869938,37.35274237224494,0 -104.85445803909305,37.927192887723074,0 -104.46263706193429,37.048188895009545,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>24</name>
+<TimeStamp><when>24</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.00873932429064,38.868943554288215,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>24</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.39123980346659,39.62119086395073,0 -106.00873932429064,38.868943554288215,0 -105.68704120753661,37.76399724593572,0 -107.06558466892018,38.030471452060375,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>25</name>
+<TimeStamp><when>25</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.07793597508126,38.281665348113357,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>25</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.61098296409985,38.641911375169599,0 -104.07793597508126,38.281665348113357,0 -104.85445803909305,37.927192887723074,0 -104.61098296409985,38.641911375169599,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>26</name>
+<TimeStamp><when>26</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.39767252905186,38.812408895144429,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>26</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.73180550510614,38.77438976512029,0 -103.39767252905186,38.812408895144429,0 -104.28705420824096,39.530560179860593,0 -105.39123980346659,39.62119086395073,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>27</name>
+<TimeStamp><when>27</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-108.40225271619961,40.68118119224961,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>27</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-108.16594828067625,40.67934473030239,0 -108.40225271619961,40.68118119224961,0 -107.79438018370158,40.430429914701001,0 -108.16594828067625,40.67934473030239,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>28</name>
+<TimeStamp><when>28</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.44166601656082,38.665440344095899,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>28</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.61098296409985,38.641911375169599,0 -105.44166601656082,38.665440344095899,0 -104.85445803909305,37.927192887723074,0 -104.61098296409985,38.641911375169599,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>29</name>
+<TimeStamp><when>29</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.46109861529483,38.253546788009601,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>29</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.73180550510614,38.77438976512029,0 -103.46109861529483,38.253546788009601,0 -104.85445803909305,37.927192887723074,0 -104.46263706193429,37.048188895009545,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>30</name>
+<TimeStamp><when>30</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.57504426900998,38.844428197408291,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>30</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-107.06558466892018,38.030471452060375,0 -106.57504426900998,38.844428197408291,0 -105.68704120753661,37.76399724593572,0 -107.06558466892018,38.030471452060375,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>31</name>
+<TimeStamp><when>31</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.1549514998472,40.449901865539097,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>31</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.14801694552787,40.403179613595448,0 -105.1549514998472,40.449901865539097,0 -106.43721083013212,40.895798010703082,0 -105.14801694552787,40.403179613595448,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>32</name>
+<TimeStamp><when>32</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.69202051856183,40.873978123010126,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>32</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-108.16594828067625,40.67934473030239,0 -106.69202051856183,40.873978123010126,0 -106.43721083013212,40.895798010703082,0 -105.14801694552787,40.403179613595448,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>33</name>
+<TimeStamp><when>33</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.97762392879353,40.887021887994848,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>33</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-108.16594828067625,40.67934473030239,0 -106.97762392879353,40.887021887994848,0 -106.43721083013212,40.895798010703082,0 -105.14801694552787,40.403179613595448,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>34</name>
+<TimeStamp><when>34</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.02599612950627,39.40294373333591,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>34</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.39123980346659,39.62119086395073,0 -106.02599612950627,39.40294373333591,0 -106.96311391189839,40.455890025690145,0 -108.16594828067625,40.67934473030239,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>35</name>
+<TimeStamp><when>35</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.35278138348497,38.645592759198323,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>35</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.61098296409985,38.641911375169599,0 -105.35278138348497,38.645592759198323,0 -104.85445803909305,37.927192887723074,0 -104.61098296409985,38.641911375169599,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>36</name>
+<TimeStamp><when>36</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.20569206923511,37.818554837637841,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>36</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.25855449366315,38.054071696965991,0 -103.20569206923511,37.818554837637841,0 -104.85445803909305,37.927192887723074,0 -104.10843754937333,37.18576242038317,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>37</name>
+<TimeStamp><when>37</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.37382215511697,37.068696802513998,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>37</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.46263706193429,37.048188895009545,0 -105.37382215511697,37.068696802513998,0 -105.45224822613049,37.274964638182411,0 -104.46263706193429,37.048188895009545,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>38</name>
+<TimeStamp><when>38</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.65203125013599,39.013522609143294,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>38</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.28367595760324,39.484189327100381,0 -105.65203125013599,39.013522609143294,0 -104.28705420824096,39.530560179860593,0 -105.28367595760324,39.484189327100381,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>39</name>
+<TimeStamp><when>39</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.43900717256544,40.943702839288719,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>39</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-108.16594828067625,40.67934473030239,0 -106.43900717256544,40.943702839288719,0 -106.43721083013212,40.895798010703082,0 -105.14801694552787,40.403179613595448,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>40</name>
+<TimeStamp><when>40</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-102.31905831923665,39.354790541508606,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>40</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.83405417056477,39.414115679643174,0 -102.31905831923665,39.354790541508606,0 -102.54712214858603,39.569831145261332,0 -102.83405417056477,39.414115679643174,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>41</name>
+<TimeStamp><when>41</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.07682824836897,38.751300069387675,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>41</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.61098296409985,38.641911375169599,0 -105.07682824836897,38.751300069387675,0 -104.85445803909305,37.927192887723074,0 -104.61098296409985,38.641911375169599,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>42</name>
+<TimeStamp><when>42</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-108.73007334849335,38.041596495100109,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>42</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-108.48672841092885,38.024921035871337,0 -108.73007334849335,38.041596495100109,0 -105.68704120753661,37.76399724593572,0 -107.06558466892018,38.030471452060375,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>43</name>
+<TimeStamp><when>43</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.29741880497775,38.70988758733025,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>43</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.61098296409985,38.641911375169599,0 -104.29741880497775,38.70988758733025,0 -104.28705420824096,39.530560179860593,0 -105.39123980346659,39.62119086395073,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>44</name>
+<TimeStamp><when>44</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.57522575630584,37.838875521365033,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>44</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.10843754937333,37.18576242038317,0 -104.57522575630584,37.838875521365033,0 -104.85445803909305,37.927192887723074,0 -104.61098296409985,38.641911375169599,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>45</name>
+<TimeStamp><when>45</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.4117484332117,37.281616402921088,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>45</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-106.83029029463897,37.814570138610236,0 -107.4117484332117,37.281616402921088,0 -105.68704120753661,37.76399724593572,0 -106.83029029463897,37.814570138610236,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>46</name>
+<TimeStamp><when>46</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.98350672562771,40.557034125345311,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>46</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.62617642741007,40.608170745711853,0 -104.98350672562771,40.557034125345311,0 -106.43721083013212,40.895798010703082,0 -105.14801694552787,40.403179613595448,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>47</name>
+<TimeStamp><when>47</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-102.87371031515008,39.947750851021965,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>47</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.83405417056477,39.414115679643174,0 -102.87371031515008,39.947750851021965,0 -102.54712214858603,39.569831145261332,0 -102.83405417056477,39.414115679643174,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>48</name>
+<TimeStamp><when>48</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.72055256307151,38.454556700519547,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>48</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-107.06558466892018,38.030471452060375,0 -106.72055256307151,38.454556700519547,0 -105.68704120753661,37.76399724593572,0 -107.06558466892018,38.030471452060375,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>49</name>
+<TimeStamp><when>49</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.38975065266236,38.622040227810871,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>49</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.50891758851191,38.764707089292216,0 -103.38975065266236,38.622040227810871,0 -104.28705420824096,39.530560179860593,0 -105.39123980346659,39.62119086395073,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>50</name>
+<TimeStamp><when>50</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.33863573164615,38.467840901328174,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>50</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.61098296409985,38.641911375169599,0 -104.33863573164615,38.467840901328174,0 -104.85445803909305,37.927192887723074,0 -104.61098296409985,38.641911375169599,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>51</name>
+<TimeStamp><when>51</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.43897514484775,40.954296646618424,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>51</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-103.99625005991955,40.661110667354016,0 -103.43897514484775,40.954296646618424,0 -103.07729775322476,40.721448005978694,0 -103.99625005991955,40.661110667354016,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>52</name>
+<TimeStamp><when>52</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.61194870602895,40.823390299372093,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>52</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-108.16594828067625,40.67934473030239,0 -107.61194870602895,40.823390299372093,0 -107.37902844016395,40.501596349990741,0 -108.16594828067625,40.67934473030239,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>53</name>
+<TimeStamp><when>53</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-108.81623827424656,39.365049627779541,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>53</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-107.4415141266964,39.647433116402212,0 -108.81623827424656,39.365049627779541,0 -107.79438018370158,40.430429914701001,0 -108.16594828067625,40.67934473030239,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>54</name>
+<TimeStamp><when>54</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.63635343529114,40.452434712765942,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>54</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.14801694552787,40.403179613595448,0 -105.63635343529114,40.452434712765942,0 -106.43721083013212,40.895798010703082,0 -105.14801694552787,40.403179613595448,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>55</name>
+<TimeStamp><when>55</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.7996752666308,37.699542576772878,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>55</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.46263706193429,37.048188895009545,0 -104.7996752666308,37.699542576772878,0 -104.85445803909305,37.927192887723074,0 -104.46263706193429,37.048188895009545,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>56</name>
+<TimeStamp><when>56</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.23032626473825,38.032980980832583,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>56</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.61098296409985,38.641911375169599,0 -105.23032626473825,38.032980980832583,0 -104.85445803909305,37.927192887723074,0 -104.61098296409985,38.641911375169599,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>57</name>
+<TimeStamp><when>57</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.35371288487394,39.732677805578653,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>57</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.73403789370043,39.075424843502894,0 -104.35371288487394,39.732677805578653,0 -104.28705420824096,39.530560179860593,0 -104.73403789370043,39.075424843502894,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>58</name>
+<TimeStamp><when>58</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-108.64909226291304,39.318525909594506,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>58</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-107.4415141266964,39.647433116402212,0 -108.64909226291304,39.318525909594506,0 -107.79438018370158,40.430429914701001,0 -108.16594828067625,40.67934473030239,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>59</name>
+<TimeStamp><when>59</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.022560529887,39.0185322435659,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>59</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.73403789370043,39.075424843502894,0 -105.022560529887,39.0185322435659,0 -104.28705420824096,39.530560179860593,0 -104.73403789370043,39.075424843502894,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>60</name>
+<TimeStamp><when>60</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.77663555311814,40.391133071571183,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>60</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.14801694552787,40.403179613595448,0 -105.77663555311814,40.391133071571183,0 -106.43721083013212,40.895798010703082,0 -105.14801694552787,40.403179613595448,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>61</name>
+<TimeStamp><when>61</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.92668027613622,38.288181029860013,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>61</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-106.83029029463897,37.814570138610236,0 -105.92668027613622,38.288181029860013,0 -105.68704120753661,37.76399724593572,0 -106.83029029463897,37.814570138610236,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>62</name>
+<TimeStamp><when>62</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.70392245366421,39.505784156967785,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>62</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-107.4415141266964,39.647433116402212,0 -107.70392245366421,39.505784156967785,0 -107.79438018370158,40.430429914701001,0 -107.4415141266964,39.647433116402212,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>63</name>
+<TimeStamp><when>63</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.39067821269421,38.842325794437123,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>63</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.83405417056477,39.414115679643174,0 -103.39067821269421,38.842325794437123,0 -104.28705420824096,39.530560179860593,0 -104.62617642741007,40.608170745711853,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>64</name>
+<TimeStamp><when>64</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.96821314327801,39.090609031771592,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>64</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.73403789370043,39.075424843502894,0 -103.96821314327801,39.090609031771592,0 -104.28705420824096,39.530560179860593,0 -104.73403789370043,39.075424843502894,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>65</name>
+<TimeStamp><when>65</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.55924803789669,40.439438672475255,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>65</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-108.16594828067625,40.67934473030239,0 -107.55924803789669,40.439438672475255,0 -107.37902844016395,40.501596349990741,0 -108.16594828067625,40.67934473030239,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>66</name>
+<TimeStamp><when>66</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.92356198463754,38.518469824231445,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>66</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-106.83029029463897,37.814570138610236,0 -105.92356198463754,38.518469824231445,0 -105.68704120753661,37.76399724593572,0 -106.83029029463897,37.814570138610236,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>67</name>
+<TimeStamp><when>67</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-102.810246378095,38.486470845288814,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>67</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.25855449366315,38.054071696965991,0 -102.810246378095,38.486470845288814,0 -102.54712214858603,39.569831145261332,0 -102.83405417056477,39.414115679643174,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>68</name>
+<TimeStamp><when>68</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.464193145495,40.863521071087348,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>68</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-108.16594828067625,40.67934473030239,0 -107.464193145495,40.863521071087348,0 -107.37902844016395,40.501596349990741,0 -108.16594828067625,40.67934473030239,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>69</name>
+<TimeStamp><when>69</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.98452132334212,40.672928809967324,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>69</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-108.16594828067625,40.67934473030239,0 -106.98452132334212,40.672928809967324,0 -106.96311391189839,40.455890025690145,0 -107.4415141266964,39.647433116402212,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>70</name>
+<TimeStamp><when>70</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.18725231112319,40.41314022774489,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>70</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.14801694552787,40.403179613595448,0 -105.18725231112319,40.41314022774489,0 -106.43721083013212,40.895798010703082,0 -105.14801694552787,40.403179613595448,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>71</name>
+<TimeStamp><when>71</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.80293446118149,40.876647403406281,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>71</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.14801694552787,40.403179613595448,0 -106.80293446118149,40.876647403406281,0 -106.43721083013212,40.895798010703082,0 -105.14801694552787,40.403179613595448,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>72</name>
+<TimeStamp><when>72</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.55730124169835,38.462847768078952,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>72</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.61098296409985,38.641911375169599,0 -105.55730124169835,38.462847768078952,0 -105.68704120753661,37.76399724593572,0 -104.46263706193429,37.048188895009545,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>73</name>
+<TimeStamp><when>73</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.42099873228976,37.510086694969836,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>73</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-106.83029029463897,37.814570138610236,0 -107.42099873228976,37.510086694969836,0 -105.68704120753661,37.76399724593572,0 -106.83029029463897,37.814570138610236,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>74</name>
+<TimeStamp><when>74</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.45002609139775,37.216401549156942,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>74</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.46263706193429,37.048188895009545,0 -105.45002609139775,37.216401549156942,0 -105.45224822613049,37.274964638182411,0 -104.46263706193429,37.048188895009545,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>75</name>
+<TimeStamp><when>75</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.01997330971992,38.787820010347211,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>75</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.28367595760324,39.484189327100381,0 -106.01997330971992,38.787820010347211,0 -105.68704120753661,37.76399724593572,0 -104.61098296409985,38.641911375169599,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>76</name>
+<TimeStamp><when>76</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.11015310748954,39.270337048112573,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>76</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.39123980346659,39.62119086395073,0 -106.11015310748954,39.270337048112573,0 -106.96311391189839,40.455890025690145,0 -107.4415141266964,39.647433116402212,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>77</name>
+<TimeStamp><when>77</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.59928475161981,40.5263159924775,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>77</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.14801694552787,40.403179613595448,0 -105.59928475161981,40.5263159924775,0 -106.43721083013212,40.895798010703082,0 -105.14801694552787,40.403179613595448,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>78</name>
+<TimeStamp><when>78</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.85595161787046,38.728480168491828,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>78</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.61098296409985,38.641911375169599,0 -103.85595161787046,38.728480168491828,0 -104.28705420824096,39.530560179860593,0 -105.28367595760324,39.484189327100381,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>79</name>
+<TimeStamp><when>79</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.19102675243795,37.249484229949061,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>79</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-106.83029029463897,37.814570138610236,0 -106.19102675243795,37.249484229949061,0 -105.45224822613049,37.274964638182411,0 -104.46263706193429,37.048188895009545,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>80</name>
+<TimeStamp><when>80</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-106.00341900345097,38.986795815633052,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>80</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-105.28367595760324,39.484189327100381,0 -106.00341900345097,38.986795815633052,0 -105.68704120753661,37.76399724593572,0 -106.83029029463897,37.814570138610236,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>81</name>
+<TimeStamp><when>81</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.63045560644495,39.177276081488131,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>81</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.73403789370043,39.075424843502894,0 -104.63045560644495,39.177276081488131,0 -104.28705420824096,39.530560179860593,0 -104.73403789370043,39.075424843502894,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>82</name>
+<TimeStamp><when>82</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.81106414637112,40.965907612799626,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>82</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.62617642741007,40.608170745711853,0 -104.81106414637112,40.965907612799626,0 -106.43721083013212,40.895798010703082,0 -104.62617642741007,40.608170745711853,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>83</name>
+<TimeStamp><when>83</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-105.93097666275267,38.035480812674145,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>83</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-106.83029029463897,37.814570138610236,0 -105.93097666275267,38.035480812674145,0 -105.68704120753661,37.76399724593572,0 -106.83029029463897,37.814570138610236,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>84</name>
+<TimeStamp><when>84</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.21481874036361,40.89128926391308,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>84</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-103.99625005991955,40.661110667354016,0 -103.21481874036361,40.89128926391308,0 -103.07729775322476,40.721448005978694,0 -103.99625005991955,40.661110667354016,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>85</name>
+<TimeStamp><when>85</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.01919080457613,39.903472907330595,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>85</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.83405417056477,39.414115679643174,0 -103.01919080457613,39.903472907330595,0 -102.54712214858603,39.569831145261332,0 -102.83405417056477,39.414115679643174,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>86</name>
+<TimeStamp><when>86</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.89408212057039,39.877081060259172,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>86</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-107.4415141266964,39.647433116402212,0 -107.89408212057039,39.877081060259172,0 -107.79438018370158,40.430429914701001,0 -108.16594828067625,40.67934473030239,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>87</name>
+<TimeStamp><when>87</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.52851074213558,39.877678747697587,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>87</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.83405417056477,39.414115679643174,0 -103.52851074213558,39.877678747697587,0 -104.28705420824096,39.530560179860593,0 -105.28367595760324,39.484189327100381,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>88</name>
+<TimeStamp><when>88</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.48716951743103,37.172391913911511,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>88</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-106.83029029463897,37.814570138610236,0 -107.48716951743103,37.172391913911511,0 -105.68704120753661,37.76399724593572,0 -106.83029029463897,37.814570138610236,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>89</name>
+<TimeStamp><when>89</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.888081004791,37.728385182436732,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>89</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.46263706193429,37.048188895009545,0 -104.888081004791,37.728385182436732,0 -104.85445803909305,37.927192887723074,0 -104.61098296409985,38.641911375169599,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>90</name>
+<TimeStamp><when>90</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.78498761159599,38.977793718677852,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>90</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-107.4415141266964,39.647433116402212,0 -107.78498761159599,38.977793718677852,0 -107.79438018370158,40.430429914701001,0 -107.4415141266964,39.647433116402212,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>91</name>
+<TimeStamp><when>91</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.72676956687438,40.516921989394781,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>91</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-103.99625005991955,40.661110667354016,0 -103.72676956687438,40.516921989394781,0 -103.07729775322476,40.721448005978694,0 -103.99625005991955,40.661110667354016,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>92</name>
+<TimeStamp><when>92</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.03563030997088,37.061200998752007,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>92</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.2445454850069,37.075993217563251,0 -103.03563030997088,37.061200998752007,0 -104.85445803909305,37.927192887723074,0 -104.10843754937333,37.18576242038317,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>93</name>
+<TimeStamp><when>93</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.81182066435545,37.939238649299014,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>93</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.10843754937333,37.18576242038317,0 -103.81182066435545,37.939238649299014,0 -104.85445803909305,37.927192887723074,0 -104.10843754937333,37.18576242038317,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>94</name>
+<TimeStamp><when>94</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-102.32144050827317,40.734861684839643,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>94</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.83405417056477,39.414115679643174,0 -102.32144050827317,40.734861684839643,0 -103.07729775322476,40.721448005978694,0 -103.99625005991955,40.661110667354016,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>95</name>
+<TimeStamp><when>95</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-104.42805424631948,40.643172267658251,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>95</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-104.62617642741007,40.608170745711853,0 -104.42805424631948,40.643172267658251,0 -103.07729775322476,40.721448005978694,0 -103.99625005991955,40.661110667354016,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>96</name>
+<TimeStamp><when>96</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-102.32276267899329,40.235298011095864,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>96</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.83405417056477,39.414115679643174,0 -102.32276267899329,40.235298011095864,0 -102.54712214858603,39.569831145261332,0 -102.83405417056477,39.414115679643174,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>97</name>
+<TimeStamp><when>97</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-102.06355441131795,39.725168167951132,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>97</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.83405417056477,39.414115679643174,0 -102.06355441131795,39.725168167951132,0 -102.54712214858603,39.569831145261332,0 -102.83405417056477,39.414115679643174,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>98</name>
+<TimeStamp><when>98</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.76981670165891,40.748473457874951,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>98</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-108.16594828067625,40.67934473030239,0 -107.76981670165891,40.748473457874951,0 -107.79438018370158,40.430429914701001,0 -108.16594828067625,40.67934473030239,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>99</name>
+<TimeStamp><when>99</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-103.2855579705376,37.959085517078215,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>99</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-102.25855449366315,38.054071696965991,0 -103.2855579705376,37.959085517078215,0 -104.85445803909305,37.927192887723074,0 -104.46263706193429,37.048188895009545,0  </coordinates>
+</LineString>
+</Placemark>
+
+<Placemark>
+<name>100</name>
+<TimeStamp><when>100</when></TimeStamp>
+<Style>
+  <IconStyle>
+      <Icon>
+        <href>files/patient.png</href>
+      </Icon>
+  </IconStyle>
+</Style>
+<Point>
+  <coordinates>-107.21449859729712,38.603504921125015,0</coordinates>
+</Point>
+</Placemark>
+
+<Placemark>
+<TimeStamp><when>100</when></TimeStamp>
+<Style>
+  <LineStyle>
+      <color>ffff0000</color>
+      <width>1</width>
+  </LineStyle>
+</Style>
+<LineString>
+  <coordinates>-107.06558466892018,38.030471452060375,0 -107.21449859729712,38.603504921125015,0 -105.68704120753661,37.76399724593572,0 -107.06558466892018,38.030471452060375,0  </coordinates>
+</LineString>
+</Placemark>
+
+</Document>
+</kml>
