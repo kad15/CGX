@@ -1,2 +1,1 @@
-# CGX
-Projet de synthèse 2018/2019
+# Projet de synthèse 2018/2019
